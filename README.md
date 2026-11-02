@@ -1,4 +1,4 @@
-# Solutions by Surfway Middle East: website package
+# My Solutions: website package
 
 Static HTML/CSS/vanilla JS site, exactly five pages: `index.html`, `managed-wifi-hotels.html`, `labor-camp-wifi.html`, `managed-wifi-enterprise.html`, `wifi-cctv-amc.html`. No build step or dependencies.
 
